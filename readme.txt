@@ -1,2 +1,3 @@
-Почитать
-123123asdfasdf
+Hello, git!
+Hello, git rebase!
+Hello, squash!
